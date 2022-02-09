@@ -20,5 +20,10 @@ Complete the Category class in budget.py. It should be able to instantiate objec
 
 ###### Solution:https://replit.com/@Yash0Sharma0/boilerplate-budget-app-5#main.py
 
+## Polygon Area Calculator:
+A project using object oriented programming to create a Rectangle class and a Square class. The Square class should be a subclass of Rectangle and inherit methods and attributes.
+
+###### Solution:https://replit.com/@Yash0Sharma0/boilerplate-budget-app-5#budget.py
+
 
 
